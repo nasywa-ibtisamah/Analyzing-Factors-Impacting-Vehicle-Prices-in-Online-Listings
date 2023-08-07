@@ -80,11 +80,17 @@ The following are data preprocessing steps I did in this project:
 
 There are correlations between the following variables:
 a. Model Year and Price > positively correlated
+
 b. Model Year and Odometer > negatively correlated
+
 c. Price and Odometer > negatively correlated
+
 d. Cylinders and is_4wd > positively correlated
+
 e. is_4wd and Price > positively correlated
+
 f. Value_condition and Price > positively correlated
+
 g. Value_condition and Model_year > positively correlated
 
 **Relationship between price and categorical variables:**
